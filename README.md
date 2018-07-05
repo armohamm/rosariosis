@@ -3,6 +3,11 @@ RosarioSIS Student Information System
 
 [![RosarioSIS logo](http://www.rosariosis.org/wp-content/uploads/2013/02/rosariosis_logo2half.png)](https://www.rosariosis.org)
 
+GitLab
+------
+
+RosarioSIS code is now hosted at [**GitLab**](https://gitlab.com/francoisjacquet/rosariosis)!
+
 License
 -------
 
